@@ -15,7 +15,7 @@ module.exports = defineConfig({
     viewportWidth: 1280,
     env: {
       "MARKETPLACE_URL": "https://dev.netsolapp.io",
-      "LANE_URL": "https://dev.netsolapp.io/dms/workqueue",
+      "LANE_URL": "https://test1.euregio-bundesverband.org/",
       "API_BASE_URL": "https://api-dev.netsolapp.io",
       "DMS_API_BASE_URL": "https://dms-api-dev.netsolapp.io/",
       "INDEX_INVENTORY_MANAGEMENT": "https://dev.netsolapp.io/configuration/inventory-management",
