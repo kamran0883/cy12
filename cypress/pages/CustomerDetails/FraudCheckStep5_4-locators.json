@@ -1,5 +1,0 @@
-{
-    "submitCreditAppBtn": ".action-area > button:contains('Submit Credit Application')",
-    "goToOrderPageBtn": ".content > button",
-    "kycStatus": ".content > p.heading"
-}

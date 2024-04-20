@@ -5,7 +5,7 @@ module.exports = defineConfig({
   e2e: {
     setupNodeEvents,
     specPattern: "cypress/e2e/features/*/*.feature",
-    baseUrl: "https://dev.netsolapp.io/",
+    baseUrl: "https://test1.euregio-bundesverband.org/",
     retries: {
       runMode: 1,
       openMode: 0

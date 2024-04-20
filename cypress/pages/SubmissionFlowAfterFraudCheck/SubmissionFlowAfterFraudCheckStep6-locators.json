@@ -1,7 +1,0 @@
-{
-    "submitCreditAppBtn": ".action-area > button:contains('Submit Credit Application')",
-    "orderStatusOnSummaryScreen": ".MuiGrid-item > h2.MuiTypography-root",
-    "cancelOderBtnOnSummaryPage": "#CancelOrder",
-    "goToOrderPageBtn": ".content > button",
-    "kycStatus": ".content > p.heading"
-}

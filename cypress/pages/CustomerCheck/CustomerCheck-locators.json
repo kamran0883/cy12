@@ -1,7 +1,0 @@
-{
-    "createOrderBtn": ".action-area > .MuiButtonGroup-root > button:nth-child(1)",
-    "customerEmailField": "input[name='email']",
-    "consentCheckBox": "[type='checkbox']",
-    "checkBoxChanged": "#customerForm span.Mui-checked[data-testid='consent']",
-    "waitIndicator": ".MuiFormControl-root > .MuiFormHelperText-root"
-}
