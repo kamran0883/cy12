@@ -1,0 +1,8 @@
+{
+    "minWaitTime": 15000,
+    "midWaitTime": 25000,
+    "maxWaitTime": 60000,
+    "dialogTitleText": "F&I Products",
+    "removeFnIBtnText": "Remove",
+    "emptyCoverageSign": "-"
+}

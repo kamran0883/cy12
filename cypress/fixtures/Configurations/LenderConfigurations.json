@@ -1,0 +1,819 @@
+{
+    "lenderProfile": {
+        "mileageUnit": "Miles",
+        "minimumFinancedAmount": "40,000.00",
+        "preferredCurrency": "United Sates Dollar",
+        "defaultCurrency": "United States Dollar"
+    },
+    "assetCatalogue": [
+        {
+            "make": {
+                "name": "Audi",
+                "status": "Enabled"
+            },
+            "model": {
+                "name": "A4",
+                "status": "Enabled"
+            },
+            "trim": {
+                "name": "Premium",
+                "status": "Enabled"
+            }
+        }
+    ],
+    "assetCondition": [
+        {
+            "description": "New",
+            "status": "Enabled"
+        },
+        {
+            "description": "Used",
+            "status": "Enabled"
+        },
+        {
+            "description": "Pre-Owned",
+            "status": "Enabled"
+        }
+    ],
+    "optionCategory": [
+        {
+            "description": "Sound System",
+            "status": "Enabled"
+        },
+        {
+            "description": "Body Kit",
+            "status": "Enabled"
+        },
+        {
+            "description": "Audio & Navigation",
+            "status": "Enabled"
+        },
+        {
+            "description": "Alloys Wheels",
+            "status": "Enabled"
+        }
+    ],
+    "oemOptions": [
+        {
+            "productName": "Civic Body Kit",
+            "description": "Body Kit is Required",
+            "category": "Body Kit",
+            "status": "Enabled",
+            "supplier": "Dealer",
+            "installationMode": "Pre-Installed",
+            "compatibleAssets": [
+                {
+                    "make": "Audi",
+                    "model": "A6"
+                },
+                {
+                    "make": "Honda",
+                    "model": "Civic"
+                },
+                {
+                    "make": "Honda",
+                    "model": "City"
+                }
+            ],
+            "price": "25000",
+            "rvOnOption": "12"
+        },
+        {
+            "productName": "Bumper",
+            "description": "Bumper is Required",
+            "category": "Body Kit",
+            "status": "Enabled",
+            "supplier": "OEM",
+            "installationMode": "Options",
+            "compatibleAssets": [
+                {
+                    "make": "Audi",
+                    "model": "A6"
+                },
+                {
+                    "make": "Honda",
+                    "model": "Civic"
+                },
+                {
+                    "make": "Honda",
+                    "model": "City"
+                }
+            ],
+            "price": "2545",
+            "rvOnOption": "33"
+        }
+    ],
+    "assetUsage": "Commercial",
+    "selectAssetUsage": "Non Commercial",
+    "asset-usageSetup": [
+        {
+            "description": "Non Commercial",
+            "status": "Enabled"
+        },
+        {
+            "description": "Commercial",
+            "status": "Enabled"
+        }
+    ],
+    "annualMileage": [
+        {
+            "annualMileageFrom": "1 Miles",
+            "annualMialegeTo": "1000 Miles",
+            "status": "Enabled"
+        },
+        {
+            "annualMileageFrom": "1001 Miles",
+            "annualMialegeTo": "2000 Miles",
+            "status": "Enabled"
+        },
+        {
+            "annualMileageFrom": "2001 Miles",
+            "annualMialegeTo": "3000 Miles",
+            "status": "Enabled"
+        }
+    ],
+    "vehicleMileage": "2000",
+    "contractAnnualMileageSetup": [
+        {
+            "value": "1000",
+            "status": "Enabled"
+        },
+        {
+            "value": "2000",
+            "status": "Enabled"
+        },
+        {
+            "value": "3000",
+            "status": "Enabled"
+        }
+    ],
+    "term": [
+        {
+            "termFrom": "13",
+            "termTo": "24",
+            "status": "Enabled"
+        },
+        {
+            "termFrom": "25",
+            "termTo": "36",
+            "status": "Enabled"
+        },
+        {
+            "termFrom": "37",
+            "termTo": "48",
+            "status": "Enabled"
+        },
+        {
+            "termFrom": "49",
+            "termTo": "60",
+            "status": "Enabled"
+        },
+        {
+            "termFrom": "61",
+            "termTo": "72",
+            "status": "Enabled"
+        },
+        {
+            "termFrom": "73",
+            "termTo": "84",
+            "status": "Enabled"
+        },
+        {
+            "termFrom": "85",
+            "termTo": "96",
+            "status": "Enabled"
+        }
+    ],
+    "contractTerms": [
+        "24",
+        "36",
+        "48",
+        "60",
+        "72",
+        "84",
+        "96"
+    ],
+    "creditScore": "Average",
+    "selectCreditScore": "Good",
+    "creditScoreRange": [
+        "Average",
+        "Good"
+    ],
+    "creditScoreSetup": [
+        {
+            "description": "Good",
+            "creditScoreRange": "1-100",
+            "status": "Enabled"
+        },
+        {
+            "description": "Average",
+            "creditScoreRange": "101-200",
+            "status": "Enabled"
+        }
+    ],
+    "fees": [
+        {
+            "feeName": "Processing Fee",
+            "status": "Enabled"
+        },
+        {
+            "feeName": "Evaluation Fee",
+            "status": "Enabled"
+        }
+    ],
+    "financedAmount": [
+        {
+            "financedAmountFrom": "1",
+            "financedAmountTo": "100",
+            "status": "Enabled"
+        },
+        {
+            "financedAmountFrom": "101",
+            "financedAmountTo": "200",
+            "status": "Enabled"
+        }
+    ],
+    "programs": [
+        {
+            "programName": "Audi Finance",
+            "programID": "AF105",
+            "financeType": "Finance",
+            "state": "Published",
+            "status": "Enabled",
+            "paymentFrequency": "Monthly",
+            "selectFrequency": "Quarterly",
+            "estimatedPeriodicPayment": "1,615.51",
+            "dueAtSigning": "13,515.51",
+            "financedAmount": "58,370.00",
+            "general": {
+                "programName": "Audi Finance",
+                "programId": "AF105",
+                "dateFrom": "11/07/2023",
+                "dateTo": "10/24/2025",
+                "financeType": [
+                    "Finance"
+                ]
+            },
+            "financialParameters": {
+                "paymentFrequency": [
+                    "Monthly",
+                    "Quarterly",
+                    "Semi Annual",
+                    "Annual"
+                ],
+                "rentalCalculationMethod": "Annuity",
+                "rentalMode": "Advance",
+                "RV/BalloonAppplicable": "Yes",
+                "RV/BalloonType": "RV"
+            },
+            "dealers": [
+                {
+                    "dealerName": "Dealer Automation",
+                    "dealerCode": "Auto001"
+                },
+                {
+                    "dealerName": "Dealer Automation User",
+                    "dealerCode": "Auto01"
+                }
+            ],
+            "assets": [
+                {
+                    "make": "Audi",
+                    "code": "A2130"
+                },
+                {
+                    "model": "A6",
+                    "code": "A326"
+                },
+                {
+                    "trim": "Premium",
+                    "code": "T107"
+                }
+            ]
+        },
+        {
+            "programName": "Audi Lease",
+            "programID": "AL105",
+            "financeType": "Lease",
+            "state": "Published",
+            "status": "Enabled",
+            "paymentFrequency": "Monthly",
+            "selectFrequency": "Quarterly",
+            "estimatedPeriodicPayment": "1,615.51",
+            "dueAtSigning": "13,515.51",
+            "financedAmount": "58,370.00",
+            "general": {
+                "programName": "Audi Lease",
+                "programId": "AL105",
+                "dateFrom": "1/07/2023",
+                "dateTo": "10/24/2025",
+                "financeType": "Lease"
+            },
+            "financialParameters": {
+                "paymentFrequency": [
+                    "Monthly",
+                    "Quarterly",
+                    "Semi Annual",
+                    "Annual"
+                ],
+                "rentalCalculationMethod": "Annuity",
+                "rentalMode": "Advance",
+                "RV/BalloonAppplicable": "Yes",
+                "RV/BalloonType": "RV"
+            },
+            "dealers": [
+                {
+                    "dealerName": "Dealer Automation",
+                    "dealerCode": "Auto001"
+                },
+                {
+                    "dealerName": "Dealer Automation User",
+                    "dealerCode": "Auto01"
+                }
+            ],
+            "assets": [
+                {
+                    "make": "Audi",
+                    "code": "A2130"
+                },
+                {
+                    "model": "A6",
+                    "code": "A326"
+                },
+                {
+                    "trim": "Premium",
+                    "code": "T107"
+                }
+            ]
+        }
+    ],
+    "charts": {
+        "endOfTermPayment": "4",
+        "selectEndOfTermPayment": "3.00",
+        "endOfTermStart": "1",
+        "endOfTermEnd": "5",
+        "downPayment": "17.00",
+        "selectDownpayment": "18.00",
+        "downPaymentStart": "16",
+        "downPaymentEnd": "20",
+        "margin": "3.0000",
+        "balloonAmount": "2,812.00",
+        "baseRate": {
+            "tenure": "7 days",
+            "baseRate": "0.5000%"
+        },
+        "marginRate": {
+            "chartType": "Asset Based",
+            "chartName": "Audi Margin Chart",
+            "status": "Enabled",
+            "chartCriteria": "Chart Criteria (1)",
+            "make": "Audi",
+            "model": "A6",
+            "trim": "Premium",
+            "purchaseOption": "$1 out",
+            "assetCondition": [
+                "Used",
+                "New"
+            ],
+            "assetUsage": [
+                "Commercial",
+                "Non Commercial"
+            ],
+            "terms": [
+                "25-36",
+                "37-48",
+                "49-60",
+                "61-72",
+                "73-84",
+                "85-96"
+            ],
+            "creditScore": [
+                "Good",
+                "Average"
+            ],
+            "financedAmount": [
+                "1-100",
+                "101-200"
+            ],
+            "margin": "3.0000",
+            "marginRange": [
+                2.0000,
+                3.0000,
+                4.0000,
+                5.0000
+            ]
+        },
+        "RV/Balloon": {
+            "chartName": "Audi RV Chart",
+            "status": "Enabled",
+            "chartCriteria": "Chart Criteria (2)",
+            "make": "Audi",
+            "model": "A6",
+            "trim": "Premium",
+            "assetCondition": [
+                "Used",
+                "New"
+            ],
+            "assetUsage": [
+                "Commercial",
+                "Non Commercial"
+            ],
+            "RVGuaranteed": "Yes",
+            "terms": [
+                "25-36",
+                "37-48",
+                "49-60",
+                "61-72",
+                "73-84",
+                "85-96"
+            ],
+            "allowedAnnualMileage": [
+                "10001-2000",
+                "2001-3000",
+                "3001-50000"
+            ],
+            "purchaseOption": "$1 out",
+            "financedAmount": [
+                "1-100",
+                "101-200"
+            ],
+            "RV/BalloonValue": 4,
+            "RV/BalloonRange": [
+                1.00,
+                2.00,
+                3.00,
+                4.00,
+                5.00
+            ]
+        },
+        "downPaymentChart": {
+            "chartName": "Audi Down Payment",
+            "status": "Enabled",
+            "chartCriteria": "Chart Criteria (1)",
+            "make": "Audi",
+            "model": "A6",
+            "trim": "Premium",
+            "assetCondition": [
+                "Used",
+                "New"
+            ],
+            "assetUsage": [
+                "Commercial",
+                "Non Commercial"
+            ],
+            "terms": [
+                "25-36",
+                "37-48",
+                "49-60",
+                "61-72",
+                "73-84",
+                "85-96"
+            ],
+            "creditScore": [
+                "Good",
+                "Average"
+            ],
+            "financedAmount": [
+                "1-100",
+                "101-200"
+            ],
+            "downPayment": 17.00,
+            "downPaymentRange": [
+                "16.00",
+                "17.00",
+                "18.00",
+                "19.00",
+                "20.00"
+            ]
+        },
+        "commission": {
+            "chartName": "Audi Commision Chart",
+            "status": "Enabled",
+            "chartCriteria": "Chart Criteria (1)",
+            "make": "Audi",
+            "model": "A6",
+            "trim": "Premium",
+            "assetCondition": [
+                "Used",
+                "New"
+            ],
+            "assetUsage": [
+                "Commercial",
+                "Non Commercial"
+            ],
+            "terms": [
+                "25-36",
+                "37-48",
+                "49-60",
+                "61-72",
+                "73-84",
+                "85-96"
+            ],
+            "creditScore": [
+                "Good",
+                "Average"
+            ],
+            "financedAmount": [
+                "1-100",
+                "101-200"
+            ],
+            "purchaseOption": "$1 out",
+            "commission": 5.00,
+            "commissionRange": [
+                3.00,
+                4.00,
+                5.00,
+                6.00,
+                7.00
+            ]
+        },
+        "subsidy": {
+            "chartName": "Dealer Subsidy",
+            "status": "Enabled",
+            "chartCriteria": "Chart Criteria (3)",
+            "make": "Audi",
+            "model": "A6",
+            "trim": "Premium",
+            "assetCondition": [
+                "Used",
+                "New"
+            ],
+            "assetUsage": [
+                "Commercial",
+                "Non Commercial"
+            ],
+            "terms": [
+                "25-36",
+                "37-48",
+                "49-60",
+                "61-72",
+                "73-84",
+                "85-96"
+            ],
+            "creditScore": [
+                "Good",
+                "Average"
+            ],
+            "financedAmount": [
+                "1-100",
+                "101-200"
+            ],
+            "dealerRate": 2.0000,
+            "manufacturerRate": 3.0000
+        }
+    },
+    "dealerProfile": {
+        "deafultMileage": "2K",
+        "selectMileage": "3K",
+        "defaultTerms": "36",
+        "selectTerms": "48",
+        "selectTermsForConditioned": "60",
+        "quotationExpiryDays": 3,
+        "applicationExpiryDays": 3,
+        "scheduleOption": "Pickup",
+        "selectScehuleOption": "Delivery",
+        "optionsAmount": "120",
+        "selectOptionsAmount": "150",
+        "evaluationFeeAmount": "120",
+        "selectEvaluationFeeAmount": "150",
+        "processingFeeAmount": "30",
+        "selectPorcessingFeeAmount": "50",
+        "totalFees": "150",
+        "general": {
+            "availableFinanceType": [
+                "Finance",
+                "Lease"
+            ],
+            "scheduleOptions": [
+                "Pickup",
+                "Delivery"
+            ]
+        },
+        "prefrences": {
+            "deafultMileage": 2000,
+            "defaultTerms": 36,
+            "quotationExpiryDays": 3,
+            "applicationExpiryDays": 3
+        },
+        "dealerFees": [
+            {
+                "feeName": "Evaluation Fee",
+                "state": "California",
+                "applicableFinanceType": [
+                    "Finance",
+                    "Lease"
+                ],
+                "feeHandling": "Financed",
+                "taxable": "No",
+                "status": "Enabled",
+                "deafultAmount": 120
+            },
+            {
+                "feeName": "Processing Fee",
+                "state": "California",
+                "applicableFinanceType": [
+                    "Finance",
+                    "Lease"
+                ],
+                "feeHandling": "Financed",
+                "taxable": "No",
+                "status": "Enabled",
+                "deafultAmount": 30
+            }
+        ],
+        "dealerOptions": [
+            {
+                "productName": "Bumper",
+                "description": "Bumper is Required",
+                "category": "Body Kit",
+                "status": "Enabled",
+                "vehicleCondition": "New",
+                "offeredBy": "OEM",
+                "supplier": "OEM",
+                "installationMode": "Optional",
+                "compatibleAssets": [
+                    {
+                        "make": "Audi",
+                        "model": "A4",
+                        "trim": "Premium"
+                    },
+                    {
+                        "make": "Honda",
+                        "model": "Civic",
+                        "trim": "Oriel"
+                    },
+                    {
+                        "make": "Honda",
+                        "model": "City",
+                        "trim": "Aspire"
+                    },
+                    {
+                        "make": "Audi'",
+                        "model": "A6",
+                        "trim": "Premium"
+                    }
+                ],
+                "price": 2545,
+                "RVOnOption": 40
+            },
+            {
+                "productName": "Civic Body Kit",
+                "description": "Body Kit is Required",
+                "category": "Body Kit",
+                "status": "Enabled",
+                "vehicleCondition": "Used",
+                "offeredBy": "OEM",
+                "supplier": "Dealer",
+                "installationMode": "Pre-Installed",
+                "compatibleAssets": [
+                    {
+                        "make": "Audi",
+                        "model": "A4",
+                        "trim": "Premium"
+                    },
+                    {
+                        "make": "Honda",
+                        "model": "Civic",
+                        "trim": "Oriel"
+                    },
+                    {
+                        "make": "Honda",
+                        "model": "City",
+                        "trim": "Aspire"
+                    },
+                    {
+                        "make": "Audi'",
+                        "model": "A6",
+                        "trim": "Premium"
+                    }
+                ],
+                "price": 120,
+                "RVOnOption": 12
+            }
+        ]
+    },
+    "FnIProducts":[
+        {
+            "provider": "EasyCare",
+            "providerCode": "000002",
+            "productType": "GAP",
+            "productName": "EasyCare GAP",
+            "markupPercentage": "14%",
+            "taxable": "Not Applicable",
+            "status": "Enabled",
+            "coverageRate": "150.48",
+            "selectCoverageRate": "155"
+        },
+        {
+            "provider": "EasyCare",
+            "providerCode": "000002",
+            "productType": "MAINTENANCE",
+            "productName": "EasyCare Maintenance",
+            "markupPercentage": "12%",
+            "taxable": "Not Applicable",
+            "status": "Enabled"
+        },
+        {
+            "provider": "JM&A",
+            "providerCode": "000002",
+            "productType": "ETCH",
+            "productName": "JM&A Automotive Collision Plan",
+            "markupPercentage": "12%",
+            "taxable": "Not Applicable",
+            "status": "Enabled"
+        },
+        {
+            "provider": "JM&A",
+            "providerCode": "000002",
+            "productType": "DENT",
+            "productName": "JM&A Ding Sheild Ultimate Plus",
+            "markupPercentage": "11%",
+            "taxable": "Not Applicable",
+            "status": "Enabled"
+        },
+        {
+            "provider": "JM&A",
+            "providerCode": "000002",
+            "productType": "LIMITED_WARRANTY",
+            "productName": "JM&A Complimentary Maintenance",
+            "markupPercentage": "1%",
+            "taxable": "Not Applicable",
+            "status": "Enabled"
+        },
+        {
+            "provider": "Portfolio",
+            "providerCode": "SAMP17064",
+            "productType": "APPEARANCE",
+            "productName": "Portfolio Film",
+            "markupPercentage": "12%",
+            "taxable": "Not Applicable",
+            "status": "Enabled"
+        }
+    ],
+    "manageInventory": [
+        {
+            "year": "2022",
+            "make": "Audi",
+            "model": "A4",
+            "trim": "Premium",
+            "stockNumber": "1FJ45884",
+            "VIN": "WMWLV7C0XN2P71187",
+            "listingStatus": "Listed",
+            "status": "Available",
+            "assetCondition": "Used",
+            "options": "Body Kit is Required",
+            "mileage": 45000,
+            "msrp": 35000,
+            "sellingPrice": "70,000",
+            "dailyUpdate": "Enabled"
+        },
+        {
+            "year": "2003",
+            "make": "Audi",
+            "model": "A6",
+            "trim": "Premium",
+            "stockNumber": "1FJ45883",
+            "VIN": "WTQLN5C59H2EEAA13",
+            "listingStatus": "Listed",
+            "status": "Available",
+            "assetCondition": "New",
+            "options": "Body Kit is Required",
+            "mileage": 5500,
+            "msrp": 18000,
+            "sellingPrice": "70,000",
+            "dailyUpdate": "Enabled"
+        },
+        {
+            "year": "2002",
+            "make": "Honda",
+            "model": "City",
+            "trim": "Aspire",
+            "stockNumber": "1FJ45882",
+            "VIN": "WTQLN5C59H2EEAA12",
+            "listingStatus": "Listed",
+            "status": "Available",
+            "assetCondition": "Pre-Owned",
+            "options": "",
+            "mileage": 1300,
+            "msrp": 15000,
+            "sellingPrice": "70,000",
+            "dailyUpdate": "Enabled"
+        },
+        {
+            "year": "2001",
+            "make": "Honda",
+            "model": "Civic",
+            "trim": "Oriel",
+            "stockNumber": "1FJ45881",
+            "VIN": "WTQLN5C59H2EEAA11",
+            "listingStatus": "Listed",
+            "status": "Available",
+            "assetCondition": "New",
+            "options": "",
+            "mileage": 1500,
+            "msrp": 25000,
+            "sellingPrice": "70,000",
+            "dailyUpdate": "Enabled"
+        }
+    ]
+}

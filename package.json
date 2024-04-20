@@ -1,0 +1,28 @@
+{
+  "name": "lane-automation-suite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "open:dev": "npx cypress open --e2e --config-file cypress/config/dev.config.js",
+    "open:stage": "npx cypress open --e2e --config-file cypress/config/stage.config.js",
+    "dev": "npx cypress run --e2e --config-file cypress/config/dev.config.js",
+    "stage": "npx cypress run --e2e --config-file cypress/config/stage.config.js",
+    "dev:headed": "npx cypress run --e2e --config-file cypress/config/dev.config.js --headed",
+    "stage:headed": "npx cypress run --e2e --config-file cypress/config/stage.config.js --headed",
+    "stage:electron": "npx cypress run --e2e --config-file cypress/config/stage.config.js --browser=electron --headed",
+    "stage:chrome": "npx cypress run --e2e --config-file cypress/config/stage.config.js --browser=chrome --headed",
+    "report": "node html-report.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^18.0.4",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
+    "cypress": "^12.12.0",
+    "cypress-real-events": "^1.10.3",
+    "esbuild": "^0.19.2",
+    "multiple-cucumber-html-reporter": "^3.5.0"
+  }
+}

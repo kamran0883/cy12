@@ -1,0 +1,15 @@
+{
+    "viewEditOrderOption": "View/Edit Order",
+    "orderSummaryOption": "Order Summary",
+    "cancelOrderOption": "Cancel Order",
+    "orderApprovedHdrTxt": "Order Approved",
+    "orderCancelledHdrText": "Order Cancelled",
+    "searchByOrderID": "Order ID",
+    "searchAppointmentByOrderID": "Order Id",
+    "searchByCreationDate": "Creation Date",
+    "searchByExpiryDate": "Expiry Date",
+    "searchByStatus": "Status",
+    "searchBySellingPrice": "Selling Price",
+    "approvedRequestStatus": "Approved",
+    "searchAppointmentsByOrderId": "Order Id"
+}

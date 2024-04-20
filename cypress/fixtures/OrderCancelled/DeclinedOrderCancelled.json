@@ -1,0 +1,6 @@
+{
+  "maxWaitTime": 6000,
+  "midWaitTime": 8000,
+  "sellingAmount": 350000,
+  "expectedReason": "Credit Application Declined"
+}

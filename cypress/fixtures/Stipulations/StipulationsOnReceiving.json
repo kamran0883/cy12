@@ -1,0 +1,6 @@
+{
+    "termsStipulationsText": "The Terms should be in between 12 and 36",
+    "nonFinancialStipText": "The Insurance Doc are not valid, Please upload again.",
+    "minWaitTime": 15000,
+    "midWaitTime": 30000
+}

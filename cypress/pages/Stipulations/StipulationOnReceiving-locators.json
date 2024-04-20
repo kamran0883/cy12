@@ -1,0 +1,10 @@
+{
+    "financialStipulationsHdr": ".MuiBox-root > .mini-title:contains('Financial Stipulations')",
+    "nonFinancialStipulationsHdr": ".MuiBox-root > .mini-title:contains('Non-Financial Stipulations')",
+    "financialStipText": "main.MuiBox-root> :nth-child(4) > .MuiTypography-body2",
+    "nonFinancialStipText": "main.MuiBox-root> :nth-child(5) > div > .MuiTypography-body2",
+    "ellipsisBtn": ".action-area > .btn-secondary",
+    "resubmitOrderBtn": ".action-area > .btn-primary",
+    "saveOrderOptionsTxt": ".MuiPaper-root > ul > li:contains('Save Order')",
+    "cancelledOrderSummaryHdr": ".MuiTypography-h2:contains('Order Cancelled')"
+}

@@ -1,0 +1,23 @@
+{
+    "tradeInAssetImage": "cypress/fixtures/Images/HondaCityAspire.png",
+    "tradeInHeaderText": "Trade-In Equity/Inequity",
+    "tradeInPopUpHeaderText": "Trade-In",
+    "tradeInYear": "2022",
+    "tradeInMake": "Honda",
+    "tradeInModel": "City",
+    "tradeInTrim": "Aspire",
+    "tradeInCurrentMileage": 25000,
+    "tradeInVIN": "WTQLNC5C60BBNEE85",
+    "tradeInCondition": "Good",
+    "tradeInAmount": "800.00",
+    "entitledToCustomer": true,
+    "leaseBalance": false,
+    "payOffBalance": true,
+    "contractNumber": "CFPD5715",
+    "lenderName": "Honda Motors",
+    "lenderAddress": "4338 Lankershim Boulevard",
+    "lenderContact": "4613641251",
+    "paymentType": "Finance",
+    "payOffAmount": "1000",
+    "tradeInInEquity": "-200.00"
+}

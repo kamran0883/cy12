@@ -1,0 +1,8 @@
+{
+  "minWaitTime": 15000,
+  "midWaitTime": 30000,
+  "maxWaitTime": 50000,
+  "financialServiceDocumentName": "BMWFinancialServiceNA_01-03-2024_13-45-10-045.pdf",
+  "purchaseAgreement": "BMW_Manhattan_purchase_agreement_04-03-2024_05-37-16-139.pdf",
+  "financialServicesDocumentName": "BMWFinancialServiceNA_04-03-2024_05-37-15-442.pdf"
+}

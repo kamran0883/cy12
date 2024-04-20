@@ -1,0 +1,8 @@
+{
+    "minWaitTime": 15000,
+    "midwaitTime": 30000,
+    "maxWaitTime": 45000,
+    "declineOrderReason": "Credit Application Declined",
+    "cancelledOrderReason": "Cancelled by Dealer"
+
+}

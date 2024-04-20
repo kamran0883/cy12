@@ -1,0 +1,17 @@
+{
+    "insuranceDialogHeaderTitle": "Insurance",
+    "agentName": "Vickey Jones",
+    "insuranceProviderName": "Pearl Insurance",
+    "policyNumber": "47511",
+    "expiryDate": "10/15/2025",
+    "addressLineOne": "3000 Freeport Blvd",
+    "city": "Sacramento",
+    "state": "California",
+    "zipCode": "95818",
+    "county": "Sacramento",
+    "insuranceContact": "9164487568",
+    "insuranceImagePath": "cypress/fixtures/Images/ProofOfInsurance.png",
+    "proofOfInsuranceFileName": "ProofOfInsurance.png",
+    "dragIconTextColor": "rgb(255, 51, 51)",
+    "stateAlias": "CA"
+}

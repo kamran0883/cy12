@@ -1,0 +1,7 @@
+{
+  "minWaitTime": 15000,
+  "midWaitTime": 30000,
+  "maxWaitTime": 60000,
+  "orderStatus": "Awaiting Scheduling",
+  "assetPickup_DeliveryDate": "04/17/2024, 06:28 PM"
+}

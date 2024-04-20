@@ -1,0 +1,20 @@
+{
+    "currentPasswordInputField": "input#password",
+    "currentPasswordHelperText": ".u-error-text#password",
+    "confirmNewPasswordHelperText": ".u-error-text#confirmPassword",
+    "confirmPasswordInputField": "input#confirmPassword",
+    "emailInputField": "[type='email']",
+    "firstNameInputField": "#first_name",
+    "firstNameHelperText": ":nth-child(1) > .u-form-group > .MuiFormControl-root > .MuiFormHelperText-root",
+    "lastNameInputField": "#last_name",
+    "lastNameHelperText": ".MuiGrid-container > :nth-child(2) > .u-form-group > .MuiFormControl-root > .MuiFormHelperText-root",
+    "loginPageHeader": ".control-wrap > .MuiTypography-root",
+    "newPasswordHelperText": ".u-error-text#newPassword",
+    "newPasswordInputField": "input#newPassword",
+    "profileAvatar": ".MuiAvatar-root",
+    "profileOptionsDropDown": "ul > li",
+    "updateProfileBtn": ".MuiBox-root > button:contains('Update my information')",
+    "userNameInputField": "#user_name",
+    "updatePasswordBtn": ".scrollable-content > .MuiButton-root",
+    "yourProfileHdrText": ".section > div > h3.MuiTypography-h3"
+}

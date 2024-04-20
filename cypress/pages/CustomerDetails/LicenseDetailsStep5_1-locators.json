@@ -1,0 +1,23 @@
+{
+    "licenseDetailsPageBtn": ":nth-child(2) > .title-with-icon > :nth-child(3)",
+    "licenseFrontImageSideDialogBox": "label[for='front_id']",
+    "licenseBackImageSideDialogBox": "label[for='back_id']",
+    "licenseFirstName": "input[name='first_name']",
+    "licenseLastName": "input[name='last_name']",
+    "licenseNumber": "input[name='license_number']",
+    "licenseIssueState": "[name='issue_state']",
+    "licenseIssueStateParentEl": "#select-simple",
+    "stateDropDown": "#menu-issue_state > .MuiPaper-root > ul",
+    "licenseExpirationDate": ".u-tab-panel form .MuiGrid-container:nth-child(3) .MuiGrid-root:nth-child(5) .MuiInputBase-root > .MuiInputBase-input",
+    "dateofBirth": ".u-tab-panel form .MuiGrid-container:nth-child(3) .MuiGrid-root:nth-child(6) .MuiInputBase-root > .MuiInputBase-input",
+    "saveLicenseDetailsBtn": ".MuiBox-root > button[type='submit']",
+    "firstNameValidationMsg": ":nth-child(1) > .u-form-group > .MuiFormControl-root > .MuiFormHelperText-root",
+    "lastNameValidationMsg": ":nth-child(2) > .u-form-group > .MuiFormControl-root > .MuiFormHelperText-root",
+    "licenseNumberValidationMsg": ":nth-child(3) > .u-form-group > .MuiFormControl-root > .MuiFormHelperText-root",
+    "licenseStateValidationMsg": ":nth-child(4) > .u-form-group > .MuiFormControl-root > .u-error-text",
+    "expirationValidatioMsg": ":nth-child(5) > .u-form-group > .MuiFormHelperText-root",
+    "dateOfBirthValidationMsg": ":nth-child(6) > .u-form-group > .MuiFormHelperText-root",
+    "employmentDetailsHdr": ".MuiTypography-h3:contains('Employment Details')",
+    "licenseDetailsHdr": ".MuiTypography-h3:contains('License Details')",
+    "removeLicenseBackImage": ".MuiGrid-container > :nth-child(2).MuiGrid-grid-sm-6 > div > .img-wrap > button.btn"
+}

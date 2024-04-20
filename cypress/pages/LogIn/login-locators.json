@@ -1,0 +1,8 @@
+{
+    "userName": "#user_name",
+    "password": "#password",
+    "submitBtn": "button[type='submit']",
+    "profileDummy": ".nav-right .profile-link a svg",
+    "profileBtn": ".nav-right .profile-link",
+    "loginBtn": "li:contains('Login')" 
+}

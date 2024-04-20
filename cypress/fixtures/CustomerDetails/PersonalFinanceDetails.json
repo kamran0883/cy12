@@ -1,0 +1,26 @@
+[
+    {
+        "residence": "Mortgage",
+        "bankRadioBtn": true,
+        "monthlyPayment": "600"
+    },
+    {
+        "residence": "Renting",
+        "bankRadioBtn": false,
+        "monthlyPayment": "500"
+    },
+    {
+        "residence": "Personal Ownership",
+        "bankRadioBtn": false
+    },
+    {
+        "residence": "With Relatives",
+        "bankRadioBtn": true
+    },
+    {
+        "minWaitTime": 15000,
+        "midWaitTime": 30000,
+        "kycSuccess": "KYC Successful",
+        "kycFailed": "KYC Unsuccessful"
+    }
+]

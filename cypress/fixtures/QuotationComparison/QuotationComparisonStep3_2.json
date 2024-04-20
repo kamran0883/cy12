@@ -1,0 +1,6 @@
+{
+  "minWaitTime": 15000,
+  "midWaitTime": 25000,
+  "maxWaitTime": 60000,
+  "nextValue": "30.00"
+}

@@ -1,0 +1,7 @@
+{
+    "minWaitTime": 15000,
+    "midWaitTime": 30000,
+    "orderApprovedHdrText": "Order Approved",
+    "orderConditionedHdrText": "Order Conditioned",
+    "orderCancelledHdrText": "Order Cancelled"
+}

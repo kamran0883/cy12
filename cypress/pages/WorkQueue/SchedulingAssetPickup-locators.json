@@ -1,0 +1,8 @@
+{
+    "appointmentsGridViewBtn": ":nth-child(7) > .action-area > .MuiStack-root > :nth-child(4) > .MuiButtonBase-root",
+    "appointmentsSearchButton": ":nth-child(7) > .action-area > .MuiStack-root > :nth-child(2) > .MuiButtonBase-root",
+    "pickupAppointmentHdr": ".MuiTypography-h4:contains('Pickup Appointment')",
+    "orderIDFilterForAppointments": "#orderIdFilter",
+    "vehicleCardInAppointmentsQueue": ":nth-child(9) > .react-multi-carousel-list > ul > li > .vehicle-card",
+    "orderIdOnAppointmentCard": ":nth-child(9) > .react-multi-carousel-list > ul > li > .vehicle-card > .vc-footer > .specs > :nth-child(1) > .MuiTypography-subtitle2"
+}

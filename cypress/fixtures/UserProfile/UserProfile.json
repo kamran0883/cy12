@@ -1,0 +1,18 @@
+{
+  "confirmPasswordNotMatchHelperText": "Confirm Password does not match",
+  "firstName": "Automation KvA",
+  "firstNameLimitWarningText": "First Name length should not be greater than 30 characters",
+  "lastNameLimitWarningText": "Last Name length should not be greater than 30 characters",
+  "logoutOptionText": "Logout",
+  "loginPageHeaderTxt": "Get Started",
+  "lastName": "User KvA",
+  "minWaitTime": 15000,
+  "midWaitTime": 30000,
+  "maxWaitTime": 45000,
+  "newPassword": "ikUtk",
+  "passworLengthPolicyText": "The password should be 8 to 15 characters long, which must include uppercase, lowercase, digit and special character.",
+  "profileOptionText": "Profile",
+  "randomFirstName": "UserglapqNGZbXtkELLwVSSpCLslxTPUjH",
+  "randomLastName": "UserEbZvOFDgzJmVmPpdbKqKLZWdaTTnoW",
+  "userInitials": "AU"
+}

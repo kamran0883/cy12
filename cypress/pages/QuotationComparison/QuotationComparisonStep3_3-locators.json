@@ -1,0 +1,19 @@
+{
+   "addFnIProductsBtn": ".drawer-body .btn-secondary:contains('Add F&I Products')",
+    "dialogTitle": ".MuiDialog-paper .u-dialog-title",
+    "leaseProgram": ".tab-list-default button:contains('Lease')",
+    "financeProgram": ".tab-list-default button:contains('Finance')",
+    "productsTabList": ".mini-tabs > .TabsUnstyled-root .tab-list-underline",
+    "addBtn": ".MuiGrid-root .vehicle-card button",
+    "continueBtn": ".MuiPaper-root .MuiDialogActions-root .MuiButton-root",
+    "productNameOnDrawer": ".drawer-body .MuiTypography-caption + .price-list > div > .MuiGrid-root .MuiGrid-grid-xs-8",
+    "emptyCoverageRatesSign": ".coverage > b",
+    "totalPriceOnDrawer": ".drawer-body .MuiTypography-caption + .price-list > div > .MuiGrid-grid-xs-4",
+    "FnICollapsed": ".fixed-container .toggle span:contains('F&I Products') + .ch-up",
+    "expandFnIBtn": ".fixed-container .toggle span:contains('F&I Products') + .toggle-btn",
+    "FnIAmountInQuoteParameters": ":nth-child(3) > .package-cell > .package-body > :nth-child(13) > .package-row",
+    "editFnIAmount": ":nth-child(13) > .package-row > .MuiButtonBase-root",
+    "saveFnIAmount": ":nth-child(13) > .package-row .editable-content button:nth-child(2)",
+    "fniInputFeild": ".MuiOutlinedInput-input",
+    "saveOrDiscardChangesDialog": ".MuiBox-root .dark"
+}

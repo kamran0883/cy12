@@ -1,0 +1,9 @@
+{
+    "minWaitTime": 15000,
+    "midwaitTime": 30000,
+    "maxWaitTime": 45000,
+    "orderSummaryOption": "Order Summary",
+    "orderCancelledSummaryHdr": "Order Cancelled",
+    "orderApprovedSummaryHdr": "Order Approved",
+    "cancelOrderOption": "Cancel Order"
+}

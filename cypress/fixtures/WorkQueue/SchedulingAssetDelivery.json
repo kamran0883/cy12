@@ -1,0 +1,10 @@
+{
+    "minWaitTime": 15000,
+    "midWaitTime": 30000,
+    "maxWaitTime": 45000,
+    "garagingAddressLineOne": "11675 Sorrento Valley Rd",
+    "garagingAddressCity": "San Diego",
+    "garagingAddressState": "California",
+    "garagingAddressZipCode": "92121",
+    "garagingAddressZipCounty": "San Diego"
+}

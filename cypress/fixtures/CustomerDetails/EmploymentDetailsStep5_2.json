@@ -1,0 +1,51 @@
+[
+    {
+        "employmentType": "Employed",
+        "employerName": "Netsol Technologies",
+        "employerPhoneNumber": "464 - 646 - 4666",
+        "occupation": "QA",
+        "employedSince": "02/2020",
+        "duration": "Duration: 03 year(s), 11 month(s)",
+        "annualEmploymentIncome": "120000",
+        "annualOtherIncome": "60000",
+        "sourceOfOtherIncome": "Business",
+        "employmentAddressLineOne": "4338 Lankershim Boulevard",
+        "employmentAddressCity": "Los Angeles",
+        "employmentAddressState": "California",
+        "employmentAddressZipCode": "91602",
+        "employmentAddressCounty": "Los Angeles"
+    },
+    {
+        "employmentType": "Self Employed",
+        "selfEmpAnnualOtherIncome": "60000",
+        "selfEmpSourceOfOtherIncome": "Business",
+        "employmentAddressLineOne": "4338 Lankershim Boulevard",
+        "employmentAddressCity": "Los Angeles",
+        "employmentAddressState": "California",
+        "employmentAddressZipCode": "91602",
+        "employmentAddressCounty": "Los Angeles"
+    },
+    {
+        "employmentType": "Retired",
+        "selfEmpAnnualOtherIncome": "60000",
+        "selfEmpSourceOfOtherIncome": "Business",
+        "employmentAddressLineOne": "4338 Lankershim Boulevard",
+        "employmentAddressCity": "Los Angeles",
+        "employmentAddressState": "California",
+        "employmentAddressZipCode": "91602",
+        "employmentAddressCounty": "Los Angeles"
+    },
+    {
+        "employmentType": "Not Employed",
+        "selfEmpAnnualOtherIncome": "60000",
+        "selfEmpSourceOfOtherIncome": "Business",
+        "employmentAddressLineOne": "4338 Lankershim Boulevard",
+        "employmentAddressCity": "Los Angeles",
+        "employmentAddressState": "California",
+        "employmentAddressZipCode": "91602",
+        "employmentAddressCounty": "Los Angeles"
+    },
+    {
+        "minWaitTime": 15000
+    }
+]

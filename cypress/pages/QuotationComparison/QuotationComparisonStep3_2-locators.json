@@ -1,0 +1,9 @@
+{
+    "expandedToggleBtn": ".package-row.toggle > .toggle-btn.ch-up",
+    "editFinanceProcessingFee": ":nth-child(2) > .package-cell > .package-body :nth-child(12) > .package-row > button",
+    "editFinanceEvaluationFee": ":nth-child(2) > .package-cell > .package-body :nth-child(13) > .package-row > button",
+    "editLeaseProcessingFee": ":nth-child(3) > .package-cell > .package-body :nth-child(12) > .package-row > button",
+    "editLeaseEvaluationFee": ":nth-child(3) > .package-cell > .package-body :nth-child(13) > .package-row > button",
+    "inputFieldInParameters": ".MuiInputBase-input",
+    "saveFeeBtn": ".editable > .editable-content > :nth-child(2)"
+}

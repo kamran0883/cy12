@@ -1,0 +1,7 @@
+{
+    "minWaitTime": 15000,
+    "midWaitTime": 25000,
+    "maxWaitTime": 60000,
+    "optionsHeaderTitle": "Options",
+    "removeOptionsBtnText": "Remove"
+}

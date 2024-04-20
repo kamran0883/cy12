@@ -1,0 +1,17 @@
+{
+  "json": {
+    "enabled": true,
+    "output": "cypress/reports/json/cucumber-report.json",
+    "formatter": "cucumber-json-formatter.exe"
+  },
+  "filterSpecs": true,
+  "omitFiltered": true,
+  "stepDefinitions": [
+    "[filepath]/**/*.{js,ts}",
+    "[filepath].{js,ts}",
+    "cypress/e2e/step_definitions/*/*.{js,ts}",
+    "[filepath]\\***.{js,ts}",
+    "[filepath].{js,ts}",
+    "cypress\\e2e\\step_definitions\\*\\*.{js,ts}"
+  ]
+}

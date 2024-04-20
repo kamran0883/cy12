@@ -1,0 +1,11 @@
+{
+  "minWaitTime": 15000,
+  "midWaitTime": 25000,
+  "maxWaitTime": 60000,
+  "optionalAddOnsName": "Bumper",
+  "bumperNewValue": "115.00",
+  "preInstalledAddOns": "Civic Body Kit",
+  "configuredRange": "Value should be in between 16% to 20%",
+  "endOfTermRange": "Value should be in between 1% to 4%",
+  "nextValue": "150"
+}

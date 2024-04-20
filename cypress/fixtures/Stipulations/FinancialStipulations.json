@@ -1,0 +1,14 @@
+{
+    "sellingAmount": 200000,
+    "termsStipulationsText": "The Terms should be in between 12 and 36",
+    "financedAmountStipulationsText": "The Financed Amount should be in between $90,000.00 and $125,000.00",
+    "nonFinancialStipText": "The Insurance Doc are not valid, Please upload again.",
+    "lessSellingAmount": "125000",
+    "toolTipInfoText": "Please update the following financial parameters to fulfill this financial stipulation:",
+    "downPayment": "4",
+    "option": "150",
+    "processingFee": "65",
+    "evaluationFee": "145",
+    "minWaitTime": 5000,
+    "midWaitTime": 30000
+}

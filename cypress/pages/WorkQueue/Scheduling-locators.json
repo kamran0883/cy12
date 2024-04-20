@@ -1,0 +1,15 @@
+{
+    "assetYearMakeModel": ".title-lg > .MuiTypography-root",
+    "assetName": ".MuiGrid-grid-sm-7 > .title-lg",
+    "contractTerms": ".container > .MuiGrid-grid-sm-12 > .MuiBox-root:nth-child(4) > .container:nth-child(2) > .MuiGrid-grid-sm-8",
+    "productType": ".container > .MuiGrid-grid-sm-12 > .MuiBox-root:nth-child(4) > .container:nth-child(3) > .MuiGrid-grid-sm-8",
+    "creditScore": ".container > .MuiGrid-grid-sm-12 > .MuiBox-root:nth-child(4) > .container:nth-child(4) > .MuiGrid-grid-sm-8",
+    "customerName": ".container > .MuiGrid-grid-sm-12 > :nth-child(3) > :nth-child(2) > .MuiGrid-grid-sm-8 > .MuiTypography-root",
+    "customerAddress": ".container > .MuiGrid-grid-sm-12 > :nth-child(3) > :nth-child(3) > .MuiGrid-grid-sm-8 > .MuiTypography-root",
+    "customerEmail": ".container > .MuiGrid-grid-sm-12 > :nth-child(3) > :nth-child(4) > .MuiGrid-grid-sm-8 > .MuiTypography-root",
+    "insuranceSection": ":nth-child(5) > .MuiTypography-h4:contains",
+    "insuranceProvider": ":nth-child(5) > :nth-child(2) > .MuiGrid-grid-sm-8 > .MuiTypography-root",
+    "insuranceContact": ":nth-child(5) > :nth-child(3) > .MuiGrid-grid-sm-8 > .MuiTypography-root",
+    "policyNumber": ":nth-child(5) > :nth-child(4) > .MuiGrid-grid-sm-8 > .MuiTypography-root",
+    "insuranceAddress": ":nth-child(6) > .MuiGrid-grid-sm-8 > .MuiTypography-root"
+}

@@ -1,0 +1,18 @@
+{
+    "searchBtnOnAppointmentQueue": ":nth-child(7) > .action-area > .stack > :nth-child(2) > .btn-default",
+    "orderIdOnCard": ":nth-child(9) > div > ul > li > .vehicle-card > .vc-footer > .specs > :nth-child(1) > .MuiTypography-subtitle2",
+    "searchBtnOnSchedulingScreen": ":nth-child(4) > .action-area > .MuiStack-root > :nth-child(2)",
+    "mailingAddressLineOne": "[name='address_line_1']",
+    "mailingAddressCity": "[name='city']",
+    "mailingAddressState": "[name='state_name']",
+    "mailingAddressZipCode": "[name='zip_code']",
+    "mailingAddressCounty": "[name='county']",
+    "listOfAvailableStates": ".MuiPaper-root > ul",
+    "stateSelector": "#select-simple",
+    "verifyAddressBtn": "form > .MuiGrid-container > .MuiGrid-root:nth-child(9) > .btn-primary",
+    "searchAppointmentsBy": ".u-form-group > div > div > #select-simple",
+    "assetPickup_DeliveryDate": ":nth-child(9) > div > ul > li > .vehicle-card > .vc-footer > .specs > :nth-child(2) > .subtitle2",
+    "vehicleCardOnAppointmentsQueue": ":nth-child(9) > .react-multi-carousel-list > .react-multi-carousel-track > .react-multi-carousel-item > .vehicle-card",
+    "ellipsisBtnOnAppointmentCard": ":nth-child(9) > .react-multi-carousel-list >ul > li > .vehicle-card > .vc-footer > .action > .btn-secondary",
+    "cancelOrderOptionOnEllipsisMenu": ".MuiPaper-root > ul > li:contains('Cancel Order')" 
+}

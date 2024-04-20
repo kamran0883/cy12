@@ -1,0 +1,37 @@
+{
+  "assetConditionFilterTitle": "Asset Condition",
+  "first": 0,
+  "second": 1,
+  "third": 2,
+  "createQuotationHeaderTitle": "Create Quotation",
+  "minWaitTime": 15000,
+  "midWaitTime": 25000,
+  "maxWaitTime": 35000,
+  "headerTitle": "Choose Asset",
+  "listingStatusFilter": "Listed",
+  "statusFitler": "Available",
+  "vinHeaderTitle": "VIN",
+  "vehicleDialogTitle": "Asset Details",
+  "vehicleFeatureTitle": "Vehicle Features & Specifications",
+  "yearFilterTitle": "Year",
+  "makeModelTrimFilterTitle": "Make / Model / Trim",
+  "stockNumberHeaderTitle": "Stock Number",
+  "sellingPriceFilterTitle": "Selling Price",
+  "showFiltersBtnTxt": "Show Filters",
+  "priceInInventory": [
+    "30,000",
+    "20,000"
+  ],
+  "priceOnCard": [
+    "20,000",
+    "30,000"
+  ],
+  "vehicleName": "2002 Honda City Aspire",
+  "stockNumber": "1FJ45882",
+  "vinNumber": "WTQLN5C59H2EEAA12",
+  "assetCondition": "Pre-Owned",
+  "availableVinNumbers": [
+    "WTQLN5C59H2EEAA12",
+    "WTQLN5C59H2EEAA11"
+  ]
+}
