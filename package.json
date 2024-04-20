@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "test": "cypress run",
     "open:dev": "npx cypress open --e2e --config-file cypress/config/dev.config.js",
     "open:stage": "npx cypress open --e2e --config-file cypress/config/stage.config.js",
     "dev": "npx cypress run --e2e --config-file cypress/config/dev.config.js",
